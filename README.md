@@ -1,0 +1,2 @@
+# SuffrageQuestion
+JavaScript spoiler.
